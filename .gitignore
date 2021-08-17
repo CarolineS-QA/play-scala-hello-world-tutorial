@@ -1,0 +1,13 @@
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+
+# other
+logs
+target
+.idea_modules
+.classpath
+.project
+.settings
